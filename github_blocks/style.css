@@ -1,0 +1,40 @@
+html {
+    background-color: #f9ebc7;
+}
+
+.firstbox {
+    height: 200px;
+    background-color: #5f6f52;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px solid #f9ebc7;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    display: inline;
+    padding: 20px;
+}
+
+.secondbox {
+    height: 200px;
+    background-color: #b99470;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px solid #f9ebc7;
+}
+
+.thirdbox {
+    height: 200px;
+    background-color: #89815d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px solid #f9ebc7;
+}

@@ -1,0 +1,42 @@
+html {
+    font-family: cursive;
+    color: white;
+}
+
+.nav {
+    background-color: darkslategray;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+
+    margin: 20px;
+    padding: 20px solid;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+
+.nav-links button {
+    background-color:cornflowerblue;
+    color: white;
+    box-shadow: 2px 2px 2px 1px black;
+    width: 100px;
+    height: 35px;
+    font-family: cursive;
+    font-size: 18px;
+}

@@ -1,0 +1,35 @@
+html {
+    background-color: beige;
+    font-family: cursive;
+    color: beige;
+}
+
+.firstline {
+    height: 50px;
+    background-color: #bbef91;
+    margin: 0px;
+    padding: 20px solid #bbef91;
+}
+
+.secondline {
+    height: 40px;
+    background-color: #efbb91;
+    margin: 0px;
+    padding: 20px solid #efbb91;
+}
+
+.thirdline {
+    height: 30px;
+    background-color: #ef91d1;
+    margin: 0px;
+    padding: 20px solid #ef91d1;
+}
+
+h1 {
+    text-align: left;
+}
+
+h2 {
+    text-align: right;
+}
+
